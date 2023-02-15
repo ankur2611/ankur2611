@@ -8,5 +8,5 @@
 - 📫 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/ankurmehta2611/ 
 - LeetCode: https://leetcode.com/ankur2611/
-- Codechef: https://www.codechef.com/users/ankur2611 
+- CodeChef: https://www.codechef.com/users/ankur2611 
 
