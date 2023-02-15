@@ -1,12 +1,9 @@
 <p align="center">
-### Hi there 👋 I'm Ankur Mehta
- </p>
+ <b> Hi there 👋 I'm Ankur Mehta </b>
+</p>
 
-- 🔭 I’m currently working as SDE-2 in KISSHT (Money Lending FinTech)
-- 🌱 My Tech Stack includes Python, Golang
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as SDE-2 in KISSHT (FinTech). I have overall 4 yrs of experience in Software Development(Backend).
+- 🌱 My Tech Stack looks like: <I> Python, Golang, Kafka, Redis, MongoDB, Cassandra, SQL, ELK, Docker, K8s, AWS, Serverless(Lambda) </I>
+- 🤔 Investing most of my time in learning How to Design Distributed & Scalable Systems.
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ankurmehta2611/ 
+
