@@ -5,5 +5,8 @@
 - 🔭 I’m currently working as SDE-2 in KISSHT (FinTech). I have overall 4 yrs of experience in Software Development(Backend).
 - 🌱 My Tech Stack looks like: <I> Python, Golang, Kafka, Redis, MongoDB, Cassandra, SQL, ELK, Docker, K8s, AWS, Serverless(Lambda) </I>
 - 🤔 Investing most of my time in learning How to Design Distributed & Scalable Systems.
-- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/ankurmehta2611/ 
+- 📫 How to reach me: 
+- LinkedIn: https://www.linkedin.com/in/ankurmehta2611/ 
+- LeetCode: https://leetcode.com/ankur2611/
+- Codechef: https://www.codechef.com/users/ankur2611 
 
